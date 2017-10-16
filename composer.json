@@ -1,0 +1,6 @@
+{
+    "name": "pc300/php-unit",
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    }
+}
