@@ -1,4 +1,9 @@
+
+
 {
+"autoload":{
+"psr-4":{"":"src/"}
+},
     "name": "pc300/php-unit",
     "require": {
         "phpunit/phpunit": "^4.8"
